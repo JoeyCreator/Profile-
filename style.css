@@ -1,0 +1,52 @@
+body {
+ text-align: center;
+ font-weight: bold;
+}
+
+h2 {
+  color: white;
+  font-size: 90%;
+}
+
+.header {
+  background-color:  rgb(66, 66, 73);
+  color: black;
+  padding: 80px;
+  font-size: 30px;
+}
+
+
+.banner {
+  font-size: 80%;
+}
+
+.mt{
+   font-size: 25px;
+}
+
+.p1 {
+
+   font-size: 20px;
+
+}
+
+.p2 {
+
+   font-size: 20px;
+
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(163, 151, 151, 0.2);
+  transition: 0.3s;
+  width: 30%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: scale(1.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
